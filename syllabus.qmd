@@ -1,0 +1,11 @@
+---
+title: Syllabus
+---
+
+# Course Syllabus
+
+Here is the syllabus for SDS290:
+
+- **Course Description**: This course will...
+- **Weekly Schedule**: Week-by-week breakdown.
+- **Grading Criteria**: Evaluation and assessment details.
