@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SDS290"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - text: Mini Projects
+        menu:
+        - href: mp_1.qmd
+          text: Mini Project 1
+        - href: mp_2.qmd
+          text: Mini Project 2
+      - href: homework.qmd
+        text: Homework
+      - text: Trouble shooting links
+        menu:
+        - href: https://smithcollege-sds.github.io/sds100/lab_01_setup.html
+          text: Downloading R and RStudio
+        - text: Basics of Data Wranging in R
+          href: https://smithcollege-sds.github.io/sds100/lab_04_wrangling.html
+        - text: Troubleshooting R Markdown
+          href: https://smithcollege-sds.github.io/sds-www/rmarkdown_problems.html
+        - text: Qualtrics
+          href: https://smithcollege.qualtrics.com/
+      - text: Lecture Slides
+        menu:
+        - href: lectures/welcome.pptx
+          text: Intro Slides
+
+      - text: Sample Code
+        href: sample_code.qmd
+  
+
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
