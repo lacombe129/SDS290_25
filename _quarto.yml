@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "SDS290"
+  title: "SDS290- Spring 2025"
   navbar:
     background: primary
     left:
@@ -11,6 +11,8 @@ website:
         text: Home
       - href: syllabus.qmd
         text: Syllabus
+      - href: https://docs.google.com/spreadsheets/d/131eOI-EH2uypTRMhCbW6aT2lEGNJbUA2T7GS2MAHOOA/edit?usp=sharing
+        text: Course Schedule
       - text: Mini Projects
         menu:
         - href: mp_1.qmd
