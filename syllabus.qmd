@@ -9,8 +9,7 @@ output:
 
 #### Instructor
 
--   Scott LaCombe (`slacombe@smith.edu`).Wright Hall 201. My hours will be held on Mondays from 2-3 PM, Wednesdays from 11-12, and Thursdays from 4:15-5:15 PM. Mondays and Wednesdays are by appointment slots and hybrid ([sign up here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUVsekFOdmJUYzVyfGRlZmF1bHR8MGY0NWUyMWJlMTk3M2ExMzc4YTdmMzM1NGI0MDY5Zjc)), and Thursdays are in person and open.
-
+-   Scott LaCombe (`slacombe@smith.edu`).Wright Hall 201. My hours will be held on Wednesdays from 9:00-10:00 AM and 3-4 PM (sign up slots are [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2dZutkpVxNhPQQugcl-KAy8RTmiTzTmaNfIkzN1jT2s9oOQcDE8Ivcn-QpOqq2f2GQdYuHcrrr)), and I have open hours from 9:30-11:00 on Fridays, no appointment needed. 
 #### Description and Goals
 
 This course provides students with an overview of statistical methods needed for scientific research. Our discussions will focus primarily on the basic principles of the design of experiments and observational studies, standard balanced designs, extensions of these designs, and the analysis of data collected under these designs. Most physical, biological, and social processes, produce variable results. This variability can often be quantified and decomposed in ways that enhance our understanding of the process and facilitate decision making. Statisticians and Data Scientists use four steps to quantify and interpret this variability. The steps are:
@@ -78,7 +77,7 @@ If you have special needs concerning quiz taking, please bring documentation of 
 
 2.  **Participation** \[10%\]: Active participation in class and regular attendance will comprise 10% of your grade. Most class periods will begin with questions from the reading for that day. Participating in the discussion about the readings is a great way to demonstrate engagement. Reading before class will help us move more quickly through content, and focus on the materials you found the most challenging. I will be tracking attendance through a sign up sheet each day, but there is no formal penalty for missed attendance. Attendance will help inform participation grades. As a reminder, participation includes in class work, but also posting on slack, coming to office hours, etc. There are many ways to fully participate in the course.
 
-3.  **Exams** \[20%\]: There will be two exams throughout the term. See the schedule for tentative dates of these exams. They will usually be distributed on a Tuesday and due that Friday. You will have time in class to work on the exams, and they are designed to take roughly 60-75 minutes to complete.
+3.  **Exams** \[20%\]: There will be two exams throughout the term. See the course schedule for tentative dates of these exams. They will be given through the Science Center's self-scheduled exams. 
 
 4.  **Mini Projects and Presentations** \[30% - 10% MP1 + 20% MP2\]: There will two mini projects during the semester. The first mini project (MP1) will be completed individually and the second mini project (MP2) will be completed in groups of three. For these projects, you and your group will be posing your own research questions and designing an experiment. The specific content of your mini projects will vary, but all projects will consist of designing an experiment (or appropriate observational study), collecting and analyzing data, and writing a technical report on your study. For MP2 each group of three students will complete an experiment together. During the last week of class, you (and your group) will create short presentation of your study and present it to the class. We'll talk more about the project as the term proceeds and detailed instructions for the projects will be posted on the course website.
 
@@ -105,7 +104,7 @@ For every day late on the written assignments I will reduce your grade for that 
 
 ```{r, echo=FALSE}
 Grade <- c("A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "E")
-Percent <- c("95-100%", "90-95%", "87-89%",	"83-86%",	"80-82%", "77-79%", "73-76%", "70-72%", "60-66%", "67-69%", "59% and below")
+Percent <- c("93-100%", "90-92.5%", "87-89%",	"83-86%",	"80-82%", "77-79%", "73-76%", "70-72%", "60-66%", "67-69%", "59% and below")
 kable(cbind(Grade, Percent))
 ```
 
@@ -138,4 +137,4 @@ There are [Statistics TAs](https://www.smith.edu/qlc/tutoring.html?colStats=open
 
 #### Tentative Schedule
 
-Please refer to the complete [day-to-day schedule](https://docs.google.com/spreadsheets/d/1VIHs_2swDFnkW2ZLJWqQ4sh8SRVGZFgmJg8ukphfIVs/edit?usp=sharing) for more detailed information.
+Please refer to the complete [day-to-day schedule](https://docs.google.com/spreadsheets/d/131eOI-EH2uypTRMhCbW6aT2lEGNJbUA2T7GS2MAHOOA/edit?usp=sharing) for more detailed information.
