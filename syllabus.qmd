@@ -53,6 +53,10 @@ Participation has two components: 1) being present and 2) engaging in class acti
 
 Much of this course will operate on a collaborative basis, and you are expected and encouraged to work together with a partner or in small groups to study, complete homework assignments, and prepare for exams. However, **every word that you write must be your own unless I'm explicitly asking you to submit a group submission**. Copying and pasting sentences, paragraphs, or blocks of code from another student is not acceptable and will receive no credit. No interaction with anyone but the instructor and course assistant is allowed on any exams. All students, staff and faculty are bound by the Smith College Honor Code.
 
+#### AI Policy
+
+The US of generative AI to produce any written work in this classroom is **forbidden** and will be considered an honor board violation unless explicitly stated otherwise. Submissions using AI will be given a 0 and submitted to the Academic Honor Board. That being said, AI can be consulted to develop code for assignments, but you must include a statement acknowledging the use of the program and all final code must be yours and yours alone.  
+
 #### Academic Honor Code Statement
 
 Cases of dishonesty, plagiarism, or other infractions, will be reported to the Academic Honor Board. You must always provide appropriate citations for others' work and ideas. Giving other scholars due credit in your written and oral communication is a fundamental social gesture in academic work---a way for us to acknowledge each other's scholarship and signify that we respect each other.
@@ -87,8 +91,8 @@ If you have special needs concerning quiz taking, please bring documentation of 
 library(knitr)
 Assignment <- c("Homework", "Participation", "Exams", 
                 "Mini Project 1", "Mini Project 2", "Final Grade")
-`Percent of Total` <- c("40%", "10%", "20%", "10%", "20%", "100%")
-`Due Date` <- c("Fridays", "Daily", "March 9th and April 27th", "March 24", "May 12", "")
+`Percent of Total` <- c("30%", "10%", "30%", "10%", "20%", "100%")
+`Due Date` <- c("Fridays", "Daily", "March 7-9th and April 25-27th", "March 28", "May 8", "")
 kable(cbind(Assignment, `Percent of Total`, `Due Date`))
 ```
 
