@@ -9,7 +9,10 @@ output:
 
 #### Instructor
 
--   Scott LaCombe (`slacombe@smith.edu`).Wright Hall 201. My hours will be held on Wednesdays from 9:00-10:00 AM and 3-4 PM (sign up slots are [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2dZutkpVxNhPQQugcl-KAy8RTmiTzTmaNfIkzN1jT2s9oOQcDE8Ivcn-QpOqq2f2GQdYuHcrrr)), and I have open hours from 9:30-11:00 on Fridays, no appointment needed. 
+-   Scott LaCombe (`slacombe@smith.edu`).Wright Hall 201.
+-   Office Hours: Wednesdays from 9:00-10:00 AM and 3-4 PM (sign up slots are [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2dZutkpVxNhPQQugcl-KAy8RTmiTzTmaNfIkzN1jT2s9oOQcDE8Ivcn-QpOqq2f2GQdYuHcrrr)), open hours from 9:30-11:00 on Fridays, no appointment needed. 
+
+
 #### Description and Goals
 
 This course provides students with an overview of statistical methods needed for scientific research. Our discussions will focus primarily on the basic principles of the design of experiments and observational studies, standard balanced designs, extensions of these designs, and the analysis of data collected under these designs. Most physical, biological, and social processes, produce variable results. This variability can often be quantified and decomposed in ways that enhance our understanding of the process and facilitate decision making. Statisticians and Data Scientists use four steps to quantify and interpret this variability. The steps are:
