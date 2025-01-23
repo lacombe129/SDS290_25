@@ -8,8 +8,8 @@ All homework is due on Fridays by 11:59 PM. I advise against
 1.  Due Friday, January 31st (1a) and Feb 7 (1b and 1c):
     -   HW #1a: Fill out [introductory survey](https://docs.google.com/forms/d/e/1FAIpQLSdsHk7M46yoE2uWMkBe4NZ1nd6XBa1JSCU2W8b_AS6vKvaFbA/viewform?usp=header)
     -   HW #1b: [CITI Training](labs/Hw1_citi.pdf)
-    -   [HW #1c: Getting started with R](intro_to_r.html)
-    -   [Template for HW 1c](HW/hw1c_template.qmd)
+    -   [HW #1c: Getting started with R](labs/intro_to_R1c.qmd)
+    -   [Template for HW 1c](https://github.com/lacombe129/SDS290_25/blob/main/HW/hw1c_template.qmd)
 2.  Due Friday, Feb 14th:
     -   HW #2: 5.11, 5.16, 5.18, 5.27 (a only), 5.32
         -   numbers indicate textbook exercises at the end of the chapter in Stat2
