@@ -58,7 +58,7 @@ Much of this course will operate on a collaborative basis, and you are expected 
 
 #### AI Policy
 
-The US of generative AI to produce any written work in this classroom is **forbidden** and will be considered an honor board violation unless explicitly stated otherwise. Submissions using AI will be given a 0 and submitted to the Academic Honor Board. That being said, AI can be consulted to develop code for assignments, but you must include a statement acknowledging the use of the program and all final code must be yours and yours alone.  
+AI can be a powerful tool to help us understand the world and quickly identify information. However, it comes at a real cost of potentially outsourcing our critical thinking skills and building a foundation for understanding core concepts. Therefore, use of generative AI is **prohibited** for any writing assignment, homework or exam. This work must be your own. However, there are cases where use of AI may be appropriate for the class, and I will explicitly note if you can use it for tasks like developing stimuli for your survey experiments. Unless explicitly stated in an assignment that you may use it, all other use of generative AI is **not permitted** in this course and suspected violations of this course policy will be reported to the Academic Honor Board for potential Honor Code violations. 
 
 #### Academic Honor Code Statement
 
