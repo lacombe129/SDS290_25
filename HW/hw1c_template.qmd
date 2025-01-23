@@ -1,0 +1,51 @@
+---
+title: "HW 1C Template"
+output:
+  pdf_document:
+---
+
+# Introduction
+
+Make sure to change the title to include your name. For future homeworks, make the question number be the main heading, and then include all code and write up below it. If a question has multiple parts, you can include subheadings including each part. I don't need the full question, but clearly label the question number.
+
+# 1. Include a chunk of code that loads each of the 5 mentioned packages.
+
+```{r, warning=F, message=F}
+# Green text after a # in a chunk indicates I'm making a comment. 
+# when loading packages, I added warning=F and message=F to keep the document looking clean
+# You will be expected to remove all warnings and messages on submitted assignments
+
+```
+
+After you load your packages, don't forget to load the data. 
+```{r}
+
+```
+
+# 2. What command would you use to extract just the groups that participants were assigned to? Include a chunk with that command
+```{r}
+
+```
+
+
+# 3. Does the distribution of weight loss appear normal (i.e., approximately bell-shaped)? 
+
+How would you describe it (in terms of modality and skew, for example)? (To ensure that your 
+homework is comprehensive, be sure to include the code needed to make the plot as well as your written
+interpretation. Hint: The code you need is displayed above, you just need to put it in a chunk)
+```{r}
+
+```
+
+# 4. Which group lost more weight based on the means? Which group has more variability in their weight loss?
+
+
+Make sure to include a chunk producing the summary table. 
+```{r}
+
+```
+
+
+# 5. Do you notice any patterns in these scatterplots? What might that pattern (or lack of pattern) mean, for the weight loss study? 
+
+For this answer, no code is needed, but I'm looking for a few sentences to answer each part of this question

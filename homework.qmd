@@ -9,6 +9,7 @@ All homework is due on Fridays by 11:59 PM. I advise against
     -   HW #1a: Fill out [introductory survey](https://docs.google.com/forms/d/e/1FAIpQLSdsHk7M46yoE2uWMkBe4NZ1nd6XBa1JSCU2W8b_AS6vKvaFbA/viewform?usp=header)
     -   HW #1b: [CITI Training](labs/Hw1_citi.pdf)
     -   [HW #1c: Getting started with R](intro_to_r.html)
+    -   [Template for HW 1c](HW/hw1c_template.qmd)
 2.  Due Friday, Feb 14th:
     -   HW #2: 5.11, 5.16, 5.18, 5.27 (a only), 5.32
         -   numbers indicate textbook exercises at the end of the chapter in Stat2
