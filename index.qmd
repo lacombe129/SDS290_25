@@ -2,7 +2,7 @@
 title: "SDS 290- Research Design and Analysis"
 ---
 
-Welcome to Spring 2025 SDS 290: Research Design and Analysis. You will find most of the course content here, but also keep an eye on [Moodle](http://moodle.smith.edu) for grades and assignments. Use the server version of `RStudio` \[\] here\](http://rstudio.smith.edu), although I strongly recommend you install R on your computer ([instructions](https://smithcollege-sds.github.io/sds100/lab_01_setup.html)).
+Welcome to Spring 2025 SDS 290: Research Design and Analysis. You will find most of the course content here, but also keep an eye on [Moodle](http://moodle.smith.edu) for grades and assignments. Use the server version of `RStudio` [here](http://rstudio.smith.edu), although I strongly recommend you install R on your computer ([instructions](https://smithcollege-sds.github.io/sds100/lab_01_setup.html)).
 
 Check the course schedule [here](https://docs.google.com/spreadsheets/d/131eOI-EH2uypTRMhCbW6aT2lEGNJbUA2T7GS2MAHOOA/edit?usp=sharing) for assigned readings and major deadlines for the course. Click [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2dZutkpVxNhPQQugcl-KAy8RTmiTzTmaNfIkzN1jT2s9oOQcDE8Ivcn-QpOqq2f2GQdYuHcrrr) to sign up for an office hour slot, or stop in without an appointment from 9:30-11:00 AM on Fridays. My office in in Wright 201 (second floor right by the staircase facing the Chapin Lawn).
 

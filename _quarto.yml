@@ -33,7 +33,7 @@ website:
           href: https://smithcollege.qualtrics.com/
       - text: Lecture Slides
         menu:
-        - href: lectures/welcome.pptx
+        - href: https://docs.google.com/presentation/d/1_R8oM8LSbJyaFBlIEGB31M1k7TqpZnCq/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
           text: Intro Slides
 
       - text: Sample Code
