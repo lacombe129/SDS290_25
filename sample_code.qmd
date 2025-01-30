@@ -4,3 +4,4 @@ title: "Sample R Code"
 
 The following links will take you to R code and data used for class.
 
+1.  Sample code [descriptive statistics](https://drive.google.com/file/d/1iG6wyp_6DxEceo1tnX6t65w3WCAdPyGv/view?usp=sharing)
