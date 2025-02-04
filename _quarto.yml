@@ -35,6 +35,8 @@ website:
         menu:
         - href: https://docs.google.com/presentation/d/1_R8oM8LSbJyaFBlIEGB31M1k7TqpZnCq/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
           text: Intro Slides
+        - href: https://docs.google.com/presentation/d/1iuOF-yE--y02bcfquKVXsB_uE-oy4p13/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
+          text: Week 2- Introduction to Anova
 
       - text: Sample Code
         href: sample_code.qmd
