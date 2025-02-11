@@ -70,14 +70,12 @@ The oral presentation is *not* simply a dump of all the R code you wrote during 
 
 If you do choose to include figures and/or tables, and I think you should, you should present figures and tables in your presentation in context. These items should be understandable on their own, in the sense that they have understandable titles, axis labels, legends, and captions. Someone glancing through your presentation should be able to make sense of your figures and tables without having to read the entire report. That said, you should also include a discussion of what you want the reader to learn from your figures and tables.
 
-
-
 ## Timeline
 
 -   **Research Proposal and Groups- Tuesday April 8th**: As part of this submission you must let me know the members working in your group. Like MP1, your group should include the beginnings of your research project, be roughly 1-2 paragraphs, and include a clear description of your research question, overview of your experimental design, and clear hypothesis/hypotheses.
 
 -   **Survey submission due Tuesday, April 15th**: For this submission, you will link to a preview of your full survey for me to review before you distribute it. Do not randomize the treatment for me so that I can review all levels of your design.
 
--   **Presentations- Last week of classes**: The last week of classes we will be doing in-class presentations to showcase all the work done in these classes.  
+-   **Presentations- Last week of classes**: The last week of classes we will be doing in-class presentations to showcase all the work done in these classes.
 
 -   **Final Project Submission- by Thursday May 8th at 12 PM**: Upload a qmd file, rendered pdf, and whatever data is needed to render your complete project.

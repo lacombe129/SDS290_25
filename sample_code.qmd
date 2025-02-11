@@ -7,3 +7,5 @@ The following links will take you to R code and data used for class.
 1.  Sample code [descriptive statistics](https://drive.google.com/file/d/1iG6wyp_6DxEceo1tnX6t65w3WCAdPyGv/view?usp=sharing)
 
 2.  [T-Tests and Anova](https://drive.google.com/file/d/1ivNL7EP59rwhwpPcY6Q4Hgw7hffLEmJM/view?usp=sharing)
+
+3. [Anova Conditions](https://drive.google.com/file/d/1lCGJWjLM4gVN-WfIJzjI7ieiuw3K6bgu/view?usp=sharing)
