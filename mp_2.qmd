@@ -3,7 +3,7 @@ title: "Mini Project 2 Instructions"
 editor: visual
 ---
 
-The learning goals of this second mini project are
+The learning goals of this second mini project are:
 
 1.  to design an experiment where you have flexibility in your design choices,
 2.  to gain experience discussing design choices, and

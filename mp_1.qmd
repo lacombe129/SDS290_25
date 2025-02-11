@@ -3,7 +3,7 @@ title: "Mini Project 1 Instructions"
 editor: visual
 ---
 
-The learning goals of this first mini project are
+The learning goals of this first mini project are:
 
 1.  Solidify your understanding of what a true experiment is,
 2.  Learn how to use the Qualtrics software to deliver experiments, and

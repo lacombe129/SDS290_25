@@ -9,7 +9,7 @@ output:
 
 #### Instructor
 
--   Scott LaCombe (`slacombe@smith.edu`).Wright Hall 201.
+-   Scott LaCombe (`slacombe@smith.edu`). Wright Hall 201.
 -   Office Hours: Wednesdays from 9:00-10:00 AM and 3-4 PM (sign up slots are [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2dZutkpVxNhPQQugcl-KAy8RTmiTzTmaNfIkzN1jT2s9oOQcDE8Ivcn-QpOqq2f2GQdYuHcrrr)), open hours from 9:30-11:00 on Fridays, no appointment needed. 
 
 
