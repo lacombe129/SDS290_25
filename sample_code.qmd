@@ -9,3 +9,5 @@ The following links will take you to R code and data used for class.
 2.  [T-Tests and Anova](https://drive.google.com/file/d/1ivNL7EP59rwhwpPcY6Q4Hgw7hffLEmJM/view?usp=sharing)
 
 3. [Anova Conditions](https://drive.google.com/file/d/1lCGJWjLM4gVN-WfIJzjI7ieiuw3K6bgu/view?usp=sharing)
+
+3a.[Starting Code for 2/13 Activity](https://drive.google.com/file/d/1lDxknfNeKE7I02n7GCZ4TYsTbfukQpxB/view?usp=sharing)
