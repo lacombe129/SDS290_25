@@ -41,7 +41,8 @@ website:
           text: Week 3- Anova Conditions
         - href: https://docs.google.com/presentation/d/1oPj9zoOtSRFNw_rf7SfNs1nvxCEzPbpi/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
           text: Week 4- Confidence Intervals, Effect Size, and Transformation
-
+        - href: https://docs.google.com/presentation/d/1tYDcveFa7dvm0LJmbKvRf5I6D2xiMHIZ/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
+          text: Week 5- One Way Anova Continued 
       - text: Sample Code
         href: sample_code.qmd
   
