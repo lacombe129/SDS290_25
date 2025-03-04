@@ -14,3 +14,6 @@ The following links will take you to R code and data used for class.
 
 4. [Confidence Intervals and Effect Sizes](https://drive.google.com/file/d/1oV4nRteLetPLDqMUB717ZaEDH76l51ro/view?usp=sharing)
   4a. [boxes data](https://drive.google.com/file/d/1oYqDWQe3rYWyEdzOqIzzw0yymUVHTlQr/view?usp=sharing)
+  
+  
+5. [Review 3/4](https://drive.google.com/file/d/1vTZRTAKqdriluY3dhyCUpfrgJeSIDplf/view?usp=sharing)
