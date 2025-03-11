@@ -45,6 +45,8 @@ website:
           text: Week 5- One Way Anova Continued 
         - href: https://docs.google.com/presentation/d/1z3o-3UGxc5ONbAr7ceyk58mNcMRr2ul4/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
           text: Week 7- Two-way Anova
+      - text: Sample Code
+        href: sample_code.qmd
   
 
         
