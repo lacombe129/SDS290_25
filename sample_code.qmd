@@ -19,3 +19,4 @@ The following links will take you to R code and data used for class.
 5. [Review 3/4](https://drive.google.com/file/d/1vTZRTAKqdriluY3dhyCUpfrgJeSIDplf/view?usp=sharing)
 
 6. [Two Way Anova](https://drive.google.com/file/d/1z4uj3Axch4xBLq8SL2obvIJWJ4Mh6wkp/view?usp=sharing)
+    6a. [simulated election data](https://drive.google.com/file/d/1-tRycAwP54oCS0QbHM-8_m8G_OKbnS5V/view?usp=sharing)
