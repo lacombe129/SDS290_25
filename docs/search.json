@@ -95,7 +95,7 @@
     "href": "sample_code.html",
     "title": "Sample R Code",
     "section": "",
-    "text": "The following links will take you to R code and data used for class.\n\nSample code descriptive statistics\nT-Tests and Anova\nAnova Conditions\n\n3a.Starting Code for 2/13 Activity\n\nConfidence Intervals and Effect Sizes 4a. boxes data\nReview 3/4\nTwo Way Anova 6a. simulated election data"
+    "text": "The following links will take you to R code and data used for class.\n\nSample code descriptive statistics\nT-Tests and Anova\nAnova Conditions\n\n3a.Starting Code for 2/13 Activity\n\nConfidence Intervals and Effect Sizes 4a. boxes data\nReview 3/4\nTwo Way Anova 6a. simulated election data\n\n7.Interactions Sample Code 7a. QMD File- Cleaning Data in Qualtrics 7b. Sample Data- Qualtrics Data"
   },
   {
     "objectID": "mp_1.html#assessment-criteria",
@@ -109,7 +109,7 @@
     "href": "mp_1.html#timeline",
     "title": "Mini Project 1 Instructions",
     "section": "Timeline",
-    "text": "Timeline\n\nResearch question and intro- Tuesday, Feb 25th: This submission should include the beginnings of your research project, be roughly 1-2 paragraphs, and include a clear description of your research question, overview of your experimental design, and clear hypothesis/hypotheses. Only one hypothesis is required for this mini-project, but you are welcome to do more.\nSurvey submission due Tuesday, March 4th: For this submission, you will link to a preview of your full survey for me to review before you distribute it. Do not randomize the treatment for me so that I can review all levels of your design.\nFinal Submission due Friday, March 28th: Upload a qmd file, rendered pdf, and whatever data is needed to render your complete project."
+    "text": "Timeline\n\nResearch question and intro- Tuesday, Feb 25th: This submission should include the beginnings of your research project, be roughly 1-2 paragraphs, and include a clear description of your research question, overview of your experimental design, and clear hypothesis/hypotheses. Only one hypothesis is required for this mini-project, but you are welcome to do more.\nSurvey submission due Tuesday, March 4th: For this submission, you will link to a preview of your full survey for me to review before you distribute it. Do not randomize the treatment for me so that I can review all levels of your design.\nFinal Submission due Friday, April 4th: Upload a qmd file, rendered pdf, and whatever data is needed to render your complete project."
   },
   {
     "objectID": "labs/intro_to_R1c.html",

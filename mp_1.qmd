@@ -84,4 +84,4 @@ Your project will be evaluated based on the following criteria:
 
 -   **Survey submission due Tuesday, March 4th**: For this submission, you will link to a preview of your full survey for me to review before you distribute it. Do not randomize the treatment for me so that I can review all levels of your design.
 
--   **Final Submission due Friday, March 28th**: Upload a qmd file, rendered pdf, and whatever data is needed to render your complete project.
+-   **Final Submission due Friday, April 4th**: Upload a qmd file, rendered pdf, and whatever data is needed to render your complete project.

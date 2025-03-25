@@ -20,3 +20,8 @@ The following links will take you to R code and data used for class.
 
 6. [Two Way Anova](https://drive.google.com/file/d/1z4uj3Axch4xBLq8SL2obvIJWJ4Mh6wkp/view?usp=sharing)
     6a. [simulated election data](https://drive.google.com/file/d/1-tRycAwP54oCS0QbHM-8_m8G_OKbnS5V/view?usp=sharing)
+    
+    
+7.[Interactions Sample Code](https://drive.google.com/file/d/11QnQyE5M8QO1z0TC0GMXHhfrHOmHY3He/view?usp=sharing)
+  7a. [QMD File- Cleaning Data in Qualtrics](https://drive.google.com/file/d/10qTrFGn3iYtBp1nvQMbtwgnWT9VkcNZc/view?usp=sharing)
+  7b. [Sample Data- Qualtrics Data](https://drive.google.com/file/d/10vNGt1RcL37H_XkEEgHpxRJ2z5OMvArd/view?usp=sharing)
