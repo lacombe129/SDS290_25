@@ -8,20 +8,18 @@ The following links will take you to R code and data used for class.
 
 2.  [T-Tests and Anova](https://drive.google.com/file/d/1ivNL7EP59rwhwpPcY6Q4Hgw7hffLEmJM/view?usp=sharing)
 
-3. [Anova Conditions](https://drive.google.com/file/d/1lCGJWjLM4gVN-WfIJzjI7ieiuw3K6bgu/view?usp=sharing)
+3.  [Anova Conditions](https://drive.google.com/file/d/1lCGJWjLM4gVN-WfIJzjI7ieiuw3K6bgu/view?usp=sharing)
 
 3a.[Starting Code for 2/13 Activity](https://drive.google.com/file/d/1lNQ6YsdWhDNyLtsmXGmMGt12his-orXv/view?usp=sharing)
 
-4. [Confidence Intervals and Effect Sizes](https://drive.google.com/file/d/1oV4nRteLetPLDqMUB717ZaEDH76l51ro/view?usp=sharing)
-  4a. [boxes data](https://drive.google.com/file/d/1oYqDWQe3rYWyEdzOqIzzw0yymUVHTlQr/view?usp=sharing)
-  
-  
-5. [Review 3/4](https://drive.google.com/file/d/1vTZRTAKqdriluY3dhyCUpfrgJeSIDplf/view?usp=sharing)
+4.  [Confidence Intervals and Effect Sizes](https://drive.google.com/file/d/1oV4nRteLetPLDqMUB717ZaEDH76l51ro/view?usp=sharing) 4a. [boxes data](https://drive.google.com/file/d/1oYqDWQe3rYWyEdzOqIzzw0yymUVHTlQr/view?usp=sharing)
 
-6. [Two Way Anova](https://drive.google.com/file/d/1z4uj3Axch4xBLq8SL2obvIJWJ4Mh6wkp/view?usp=sharing)
-    6a. [simulated election data](https://drive.google.com/file/d/1-tRycAwP54oCS0QbHM-8_m8G_OKbnS5V/view?usp=sharing)
-    
-    
+5.  [Review 3/4](https://drive.google.com/file/d/1vTZRTAKqdriluY3dhyCUpfrgJeSIDplf/view?usp=sharing)
+
+6.  [Two Way Anova](https://drive.google.com/file/d/1z4uj3Axch4xBLq8SL2obvIJWJ4Mh6wkp/view?usp=sharing) 6a. [simulated election data](https://drive.google.com/file/d/1-tRycAwP54oCS0QbHM-8_m8G_OKbnS5V/view?usp=sharing)
+
 7.[Interactions Sample Code](https://drive.google.com/file/d/11QnQyE5M8QO1z0TC0GMXHhfrHOmHY3He/view?usp=sharing)
-  7a. [QMD File- Cleaning Data in Qualtrics](https://drive.google.com/file/d/10qTrFGn3iYtBp1nvQMbtwgnWT9VkcNZc/view?usp=sharing)
-  7b. [Sample Data- Qualtrics Data](https://drive.google.com/file/d/10vNGt1RcL37H_XkEEgHpxRJ2z5OMvArd/view?usp=sharing)
+
+7a. [QMD File- Cleaning Data in Qualtrics](https://drive.google.com/file/d/10qTrFGn3iYtBp1nvQMbtwgnWT9VkcNZc/view?usp=sharing) 7b. [Sample Data- Qualtrics Data](https://drive.google.com/file/d/10vNGt1RcL37H_XkEEgHpxRJ2z5OMvArd/view?usp=sharing)
+
+7c. [Envrionmental Data- Practice](https://drive.google.com/file/d/132YCtwTbacp9eYEomFX4fLZb6OEw3PK_/view?usp=sharing)
