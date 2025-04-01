@@ -23,3 +23,6 @@ The following links will take you to R code and data used for class.
 7a. [QMD File- Cleaning Data in Qualtrics](https://drive.google.com/file/d/10qTrFGn3iYtBp1nvQMbtwgnWT9VkcNZc/view?usp=sharing) 7b. [Sample Data- Qualtrics Data](https://drive.google.com/file/d/10vNGt1RcL37H_XkEEgHpxRJ2z5OMvArd/view?usp=sharing)
 
 7c. [Envrionmental Data- Practice](https://drive.google.com/file/d/132YCtwTbacp9eYEomFX4fLZb6OEw3PK_/view?usp=sharing)
+
+
+8. [Interactions-Part 2](https://drive.google.com/file/d/17GzxRRD3hBP7pMgo_2iAIdIjhB4BfDD4/view?usp=sharing)
