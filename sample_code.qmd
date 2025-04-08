@@ -26,3 +26,5 @@ The following links will take you to R code and data used for class.
 
 
 8. [Interactions-Part Two](https://drive.google.com/file/d/17GzxRRD3hBP7pMgo_2iAIdIjhB4BfDD4/view?usp=sharing)
+
+9. [April 8-Heteroscedasticity and Confidence Intervals](https://drive.google.com/file/d/19KwqGDsLC-SDqJsy0Am8_3tRt7vsbxnl/view?usp=sharing)
