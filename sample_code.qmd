@@ -4,7 +4,11 @@ title: "Sample R Code"
 
 The following links will take you to R code and data used for class.
 
+# Week 1
+
 1.  Sample code [descriptive statistics](https://drive.google.com/file/d/1iG6wyp_6DxEceo1tnX6t65w3WCAdPyGv/view?usp=sharing)
+
+# T-Tests and Anova
 
 2.  [T-Tests and Anova](https://drive.google.com/file/d/1ivNL7EP59rwhwpPcY6Q4Hgw7hffLEmJM/view?usp=sharing)
 
@@ -12,19 +16,32 @@ The following links will take you to R code and data used for class.
 
 3a.[Starting Code for 2/13 Activity](https://drive.google.com/file/d/1lNQ6YsdWhDNyLtsmXGmMGt12his-orXv/view?usp=sharing)
 
+# Week 4
+
 4.  [Confidence Intervals and Effect Sizes](https://drive.google.com/file/d/1oV4nRteLetPLDqMUB717ZaEDH76l51ro/view?usp=sharing) 4a. [boxes data](https://drive.google.com/file/d/1oYqDWQe3rYWyEdzOqIzzw0yymUVHTlQr/view?usp=sharing)
 
 5.  [Review 3/4](https://drive.google.com/file/d/1vTZRTAKqdriluY3dhyCUpfrgJeSIDplf/view?usp=sharing)
 
+# Two Way Anova
+
 6.  [Two Way Anova](https://drive.google.com/file/d/1z4uj3Axch4xBLq8SL2obvIJWJ4Mh6wkp/view?usp=sharing) 6a. [simulated election data](https://drive.google.com/file/d/1-tRycAwP54oCS0QbHM-8_m8G_OKbnS5V/view?usp=sharing)
 
+# Interactions
+
 7.[Interactions Sample Code](https://drive.google.com/file/d/11QnQyE5M8QO1z0TC0GMXHhfrHOmHY3He/view?usp=sharing)
+
+# Data Cleaning
 
 7a. [QMD File- Cleaning Data in Qualtrics](https://drive.google.com/file/d/10qTrFGn3iYtBp1nvQMbtwgnWT9VkcNZc/view?usp=sharing) 7b. [Sample Data- Qualtrics Data](https://drive.google.com/file/d/10vNGt1RcL37H_XkEEgHpxRJ2z5OMvArd/view?usp=sharing)
 
 7c. [Envrionmental Data- Practice](https://drive.google.com/file/d/132YCtwTbacp9eYEomFX4fLZb6OEw3PK_/view?usp=sharing)
 
+# Interactions Part 2
 
-8. [Interactions-Part Two](https://drive.google.com/file/d/17GzxRRD3hBP7pMgo_2iAIdIjhB4BfDD4/view?usp=sharing)
+8.  [Interactions-Part Two](https://drive.google.com/file/d/17GzxRRD3hBP7pMgo_2iAIdIjhB4BfDD4/view?usp=sharing)
 
-9. [April 8-Heteroscedasticity and Confidence Intervals](https://drive.google.com/file/d/19KwqGDsLC-SDqJsy0Am8_3tRt7vsbxnl/view?usp=sharing)
+# Selected Topics
+
+9.  [April 8-Heteroscedasticity and Confidence Intervals](https://drive.google.com/file/d/19KwqGDsLC-SDqJsy0Am8_3tRt7vsbxnl/view?usp=sharing)
+
+10. [Non-Parametric Tests](https://drive.google.com/file/d/1BycoRSJ930QP4WFgfNHRWpkkyxdpVhIU/view?usp=sharing)
