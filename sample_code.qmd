@@ -52,3 +52,9 @@ The following links will take you to R code and data used for class.
 # Formatting in Quarto
 
 12. [Images and Hiding Code](https://drive.google.com/file/d/1Emdf6BrIN9ikXYnIIagOIDzV1IQL1Tpw/view?usp=sharing)
+
+13. [Citations](https://drive.google.com/file/d/1IVfuV8pkVKVGOSf6tosXT-8gTz9MPbLa/view?usp=sharing)
+
+# Selected Topics
+
+14. [Regression and Ancova](https://drive.google.com/file/d/1FKaRT38yUtvY4KT5UHJv79_J1kiaWTTA/view?usp=sharing)
