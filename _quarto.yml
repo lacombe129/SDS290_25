@@ -53,6 +53,8 @@ website:
           text: Week 10- Selected Topics 1
         - href: https://docs.google.com/presentation/d/1C2g7P8Vkrhl6b82mDVrrGil2rcAD3z4H/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
           text: Week 11- Selected Topics 2
+        - href: https://docs.google.com/presentation/d/1J3vRCY_jLWKK922noGPSaKdu4Dlj4yCW/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
+          text: Data Ethics
       - text: Sample Code
         href: sample_code.qmd
   
