@@ -78,4 +78,4 @@ If you do choose to include figures and/or tables, and I think you should, you s
 
 -   **Presentations- Last week of classes**: The last week of classes we will be doing in-class presentations to showcase all the work done in these classes.
 
--   **Final Project Submission- by Thursday May 8th at 12 PM**: Upload a .qmd file, rendered pdf, and whatever data is needed to render your complete project.
+-   **Final Project Submission- by Thursday May 8th at 11:59 PM**: Upload a .qmd file, rendered pdf, and whatever data is needed to render your complete project.
